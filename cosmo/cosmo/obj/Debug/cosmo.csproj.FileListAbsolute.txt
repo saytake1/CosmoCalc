@@ -1,0 +1,10 @@
+C:\Users\TUF Gaming\source\repos\cosmo\cosmo\bin\Debug\cosmo.exe.config
+C:\Users\TUF Gaming\source\repos\cosmo\cosmo\bin\Debug\cosmo.exe
+C:\Users\TUF Gaming\source\repos\cosmo\cosmo\bin\Debug\cosmo.pdb
+C:\Users\TUF Gaming\source\repos\cosmo\cosmo\obj\Debug\cosmo.csproj.AssemblyReference.cache
+C:\Users\TUF Gaming\source\repos\cosmo\cosmo\obj\Debug\cosmo.Form1.resources
+C:\Users\TUF Gaming\source\repos\cosmo\cosmo\obj\Debug\cosmo.Properties.Resources.resources
+C:\Users\TUF Gaming\source\repos\cosmo\cosmo\obj\Debug\cosmo.csproj.GenerateResource.cache
+C:\Users\TUF Gaming\source\repos\cosmo\cosmo\obj\Debug\cosmo.csproj.CoreCompileInputs.cache
+C:\Users\TUF Gaming\source\repos\cosmo\cosmo\obj\Debug\cosmo.exe
+C:\Users\TUF Gaming\source\repos\cosmo\cosmo\obj\Debug\cosmo.pdb
